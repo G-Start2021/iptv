@@ -34,3 +34,19 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="Фильмы18+" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" ,Teen HD
 http://live.redtraffic.xyz/teen.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:10938857
+#EXT-X-TARGETDURATION:3
+#EXTINF:3.000,
+livecams-1755281230000.ts
+#EXTINF:3.000,
+livecams-1755281233000.ts
+#EXTINF:3.000,
+livecams-1755281236000.ts
+#EXTINF:3.000,
+livecams-1755281239000.ts
+#EXTINF:3.000,
+livecams-1755281242000.ts
+#EXTINF:3.000,
+livecams-1755281245000.ts
